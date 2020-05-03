@@ -1,0 +1,23 @@
+{
+  "name": "web-server-express",
+  "version": "1.0.0",
+  "description": "Demo application for POC on node web server using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalsrivastavaofficial/web-server-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalsrivastavaofficial/web-server-express/issues"
+  },
+  "homepage": "https://github.com/vishalsrivastavaofficial/web-server-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}
